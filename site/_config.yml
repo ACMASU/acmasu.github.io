@@ -1,0 +1,8 @@
+# Site settings
+title: ASU ACM
+email: acmarmstrong@gmail.com
+baseurl: ""
+url: "https://acmasu.github.io"
+
+# Build settings
+markdown: kramdown
